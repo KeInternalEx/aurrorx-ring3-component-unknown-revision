@@ -1,0 +1,11 @@
+Config modules:
+	Each module entry in the config contains
+	Network Address
+	Network Module?
+	RVA from start of pe header
+	Size of module
+	Type of module
+	Cipher constant for module (one byte)
+	
+	
+Each module will just be appended to end of scout

@@ -1,0 +1,24 @@
+x:\! bootkit dev\windows\usermode\scout\scout\release\vc140.pdb
+x:\! bootkit dev\windows\usermode\scout\scout\release\whispererstubs.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\utilities.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\stealthnetwork.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\networkhelper.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\main.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\moduleresolver.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\hostblock.obj
+x:\! bootkit dev\windows\usermode\scout\scout\release\fsheader.obj
+x:\! bootkit dev\! staging\windows\32\um\scout.exe
+x:\! bootkit dev\! staging\windows\32\um\scout.map
+x:\! bootkit dev\! staging\windows\32\um\scout.pdb
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.res
+x:\! bootkit dev\windows\usermode\scout\..\..\..\! staging\windows\32\um\scout.pdb
+x:\! bootkit dev\windows\usermode\scout\..\..\..\! staging\windows\32\um\scout.exe
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\cl.command.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\cl.read.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\cl.write.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\link.command.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\link.read.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\link.write.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\rc.command.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\rc.read.1.tlog
+x:\! bootkit dev\windows\usermode\scout\scout\release\scout.tlog\rc.write.1.tlog

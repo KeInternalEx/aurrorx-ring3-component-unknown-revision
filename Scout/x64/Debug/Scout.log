@@ -1,0 +1,6 @@
+﻿  Assembling ChangeSegment.asm...
+ChangeSegment.asm(1): error A2008: syntax error : .
+ChangeSegment.asm(2): error A2008: syntax error : .
+ChangeSegment.asm(14): error A2070: invalid instruction operands
+ChangeSegment.asm(15): error A2070: invalid instruction operands
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\ChangeSegment.obj" /W3 /errorReport:prompt  /TaChangeSegment.asm" exited with code 1.
