@@ -5,18 +5,18 @@ macro anti_ss {
         push ss
         pop ss
 }
-macro amt addr* {    ; aggressive mass transfer
+macro amt addr* { 
         anti_ss
         push eax
         jmp @f
-        db "Deja vu, I've just been in this place before!Higher on the street, and I know it's my time to go!"
+        db "zzzz"
 @@:
         anti_ss
         pop eax
         jmp addr
-        db "AGGRESSIVE MASS TRANSFER!";
+        db "zzzz";
         anti_ss
-        db "Deja vu, I've just been in this time before!Higher on the beat, and I know it's a place to go!"
+        db "zzzz"
         nop
         nop
         int 10h
