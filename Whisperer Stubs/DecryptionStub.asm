@@ -41,7 +41,7 @@ DecryptionStub:  ;ecx = length, ebx:edx = key,
 
         amt .begin_loop
 
-        db "contact me at (713) 688-0888"
+        db "zzzz"
 
 .begin_loop:
         anti_ss
